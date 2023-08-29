@@ -1,0 +1,23 @@
+#myBar {
+    width: 0%;
+    height: 30px;
+    background-color: green;
+    text-align: center;
+    line-height: 30px;
+    color: antiquewhite;
+}
+
+body {
+    font-family: "Times New Roman";
+    background-color: azure;
+}
+
+/*#myProgress {*/
+/*    background-color: #ccc;*/
+/*    width: 1000px;*/
+/*}*/
+
+/*#myBar {*/
+/*    background-color: #00ff00;*/
+/*    width: 0%*/
+/*}*/
